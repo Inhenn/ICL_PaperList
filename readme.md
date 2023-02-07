@@ -80,16 +80,16 @@ This section contains the pilot works that might contributes to the prompt selec
    ![](https://img.shields.io/badge/prompt-EAD8D9)
 
    - how in-context learning performance changes as the training corpus varies, investigate the effects of the source and size of the pretraining corpus on in-context learning
-2. **Chain of Thought Prompting Elicits Reasoning in Large Language Models**.
+2. **Chain of Thought Prompting Elicits Reasoning in Large Language Models**. CHECK
 
    *Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed Chi, Quoc Le, Denny Zhou*.  [[pdf](https://arxiv.org/abs/2201.11903)], 2022.01, ![](https://img.shields.io/badge/conference-FAEFCA)
    ![](https://img.shields.io/badge/prompt-EAD8D9)
-3. **Least-to-Most Prompting Enables Complex Reasoning in Large Language Models**.
+3. **Least-to-Most Prompting Enables Complex Reasoning in Large Language Models**. CHECK
 
    *Denny Zhou, Nathanael Schärli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, Dale Schuurmans, Claire Cui, Olivier Bousquet, Quoc Le, Ed Chi*.  [[pdf](https://arxiv.org/abs/2205.10625)], 2022.05, ![](https://img.shields.io/badge/conference-FAEFCA)
    ![](https://img.shields.io/badge/section-EAD8D9)
 
-4. **Self-Generated In-Context Learning: Leveraging Auto-regressive Language Models as a Demonstration Generator**.
+4. **Self-Generated In-Context Learning: Leveraging Auto-regressive Language Models as a Demonstration Generator**.CHECK
 
    *Hyuhng Joon Kim, Hyunsoo Cho, Junyeob Kim, Taeuk Kim, Kang Min Yoo, Sang-goo Lee*.  [[pdf](https://arxiv.org/abs/2206.08082)], 2022.06, ![](https://img.shields.io/badge/NAACL_2022_Workshop-FAEFCA)
    ![](https://img.shields.io/badge/prompt-EAD8D9)
@@ -117,7 +117,7 @@ This section contains the pilot works that might contributes to the prompt selec
    - finetuning language models on a collection of tasks described via instructions
    - substantially improves zero-shot performance on unseen tasks
   
-9. **Active Example Selection for In-Context Learning**.
+9. **Active Example Selection for In-Context Learning**. FEW SHOT
 
    *Yiming Zhang, Shi Feng, Chenhao Tan*.  [[pdf](https://arxiv.org/abs/2211.04486)], [[project](https://github.com/chicagohai/active-example-selection)], 2022.11, ![](https://img.shields.io/badge/arxiv-FAEFCA)
 
@@ -130,7 +130,7 @@ This section contains the pilot works that might contributes to the prompt selec
     *Taylor Sorensen, Joshua Robinson, Christopher Rytting, Alexander Shaw, Kyle Rogers, Alexia Delorey, Mahmoud Khalil, Nancy Fulda, David Wingate*.  [[pdf](https://aclanthology.org/2022.acl-long.60/)], 2022.5, ![](https://img.shields.io/badge/ACL2022-FAEFCA)
       ![](https://img.shields.io/badge/prompt-EAD8D9)
 
-12. **Self-adaptive In-context Learning** ![](https://img.shields.io/badge/New-EAD8D9)
+12. **Self-adaptive In-context Learning** ![](https://img.shields.io/badge/New-EAD8D9) FEW SHOT
     
     *Zhiyong Wu, Yaoxiang Wang, Jiacheng Ye, Lingpeng Kong*.  [[pdf](https://arxiv.org/abs/2212.10375)], [[project](https://github.com/shark-nlp/self-adaptive-icl)], 2022.12, ![](https://img.shields.io/badge/arxiv-FAEFCA)
 
